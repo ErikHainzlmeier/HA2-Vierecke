@@ -1,5 +1,7 @@
 # Qt user file
-*.pro.user
+/.pro.user
+
+
 
 # Prerequisites
 *.d
