@@ -7,6 +7,7 @@ class Rechteck : public Quadrat {
 public:
     Rechteck();
     virtual ~Rechteck();
+
     void setBreite(double breite);
     double getBreite() const;
     virtual double getFlaecheninhalt() const;
