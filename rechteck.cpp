@@ -14,5 +14,5 @@ double Rechteck::getBreite() const{
 }
 
 double Rechteck::getFlaecheninhalt() const{
-    return Rechteck::getLaenge() * m_breite;
+    return this->getLaenge() * m_breite;
 }
